@@ -52,3 +52,60 @@ button {
   padding: 0.5rem 1rem;
   font-size: 1rem;
 }
+
+.input-section {
+  margin: 1em 0;
+}
+
+input[type="text"] {
+  padding: 0.5em;
+  font-size: 1em;
+}
+
+button {
+  margin: 0.5em;
+  padding: 0.5em 1em;
+}
+
+.correct {
+  color: green;
+  font-weight: bold;
+}
+
+.incorrect {
+  color: red;
+  font-weight: bold;
+}
+
+.nav-buttons {
+  margin-top: 1em;
+}
+
+.correct {
+  color: green;
+  font-weight: bold;
+}
+
+.incorrect {
+  color: red;
+  font-weight: bold;
+}
+
+.input-section {
+  margin: 1em 0;
+}
+
+input[type="text"] {
+  padding: 0.5em;
+  font-size: 1em;
+}
+
+button {
+  margin: 0.5em;
+  padding: 0.5em 1em;
+}
+
+.nav-buttons {
+  margin-top: 1em;
+}
+
